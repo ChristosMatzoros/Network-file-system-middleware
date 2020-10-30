@@ -1,0 +1,5 @@
+python3 cache.py <server_IP> 0      // without cache
+python3 cache.py <server_IP> 1      // with cache
+python3 compare.py <server_IP>
+
+python3 nfs_server.py
