@@ -3,6 +3,6 @@ We created from scratch a software network file system middleware (using NFS sem
 
 Created by:
 <br />
-Akis Giannoukos  www.linkedin.com/in/akisgiannoukos/ 
+Akis Giannoukos  www.linkedin.com/in/akisgiannoukos
 <br />
 Christos Matzoros   www.linkedin.com/in/matzoros-christos
